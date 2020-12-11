@@ -1,6 +1,6 @@
 # 프로그램 소개
+## 관리자가 주차장을 한눈에 보고 입출차를 관리 하며 정산 내역들을 보여 드립니다.
 ![그림6](https://user-images.githubusercontent.com/57141105/101868322-72294900-3bc0-11eb-8e2f-c1b96cff3424.png)
-#### 관리자가 주차장을 한눈에 보고 입출차를 관리 하며 정산 내역들을 보여 드립니다.
 
 # 프로그램 구성
 ![그림9](https://user-images.githubusercontent.com/57141105/101869011-d698d800-3bc1-11eb-82f1-e2516211d868.png)
@@ -13,11 +13,11 @@
 ## 2.입차 
 ![그림7](https://user-images.githubusercontent.com/57141105/101868605-0e535000-3bc1-11eb-96b0-c1b100b443ac.png)
 
-## 3.출차
-![그림10](https://user-images.githubusercontent.com/57141105/101869421-c6352d00-3bc2-11eb-838e-8678afb5d622.png)
-
-## 4.차량찾기 
+## 3.차량찾기 
 ![그림8](https://user-images.githubusercontent.com/57141105/101868879-95082d00-3bc1-11eb-8957-be70567ccba5.png)
+
+## 4.출차
+![그림10](https://user-images.githubusercontent.com/57141105/101869421-c6352d00-3bc2-11eb-838e-8678afb5d622.png)
 
 ## 5.정산
 ![그림13](https://user-images.githubusercontent.com/57141105/101870144-6049a500-3bc4-11eb-8fc9-284a8e847f9f.png)
