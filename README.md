@@ -20,7 +20,7 @@
 ![그림8](https://user-images.githubusercontent.com/57141105/101868879-95082d00-3bc1-11eb-8957-be70567ccba5.png)
 
 ## 5.정산
-![그림11](https://user-images.githubusercontent.com/57141105/101869830-b79b4580-3bc3-11eb-93b7-15d64133839a.png)
+![그림13](https://user-images.githubusercontent.com/57141105/101870144-6049a500-3bc4-11eb-8fc9-284a8e847f9f.png)
 
 ## 6.메뉴얼
 ![그림12](https://user-images.githubusercontent.com/57141105/101870023-25477180-3bc4-11eb-9068-340016d48588.png)
