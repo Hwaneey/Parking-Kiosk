@@ -1,6 +1,6 @@
 # 프로그램 소개
 ![그림6](https://user-images.githubusercontent.com/57141105/101868322-72294900-3bc0-11eb-8e2f-c1b96cff3424.png)
-관리자가 주차장을 한눈에 보고 입출차를 관리 하며 정산 내역들을 보여 드립니다.
+## 관리자가 주차장을 한눈에 보고 입출차를 관리 하며 정산 내역들을 보여 드립니다.
 
 # 프로그램 구성
 ![그림9](https://user-images.githubusercontent.com/57141105/101869011-d698d800-3bc1-11eb-82f1-e2516211d868.png)
